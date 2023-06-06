@@ -23,7 +23,7 @@
 
 # 📖 webpack-starter<a name="about-project"></a>
 
-**A simple JavaScript application to create and manage a list of books.**
+**This is a simple starter project for using Webpack. It includes everything you need to get started, including a basic configuration, a starter template, and a few useful plugins.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -31,34 +31,18 @@
 
 > This project was built using the following technologies:
 
-<details>
-  <summary>HTML</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/html/" target="_blank">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/css/" target="_blank">CSSs</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Javascript</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/javascript/" target="_blank">Javascript</a></li>
-  </ul>
-</details>
+  - HTML
+  - CSS
+  - Javascript
+  - Webpack 
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Add new books: Enter the book title and author to add a new book to the list.**
-- **Remove books: Remove books from the list when no longer needed**
-- **Save and remove books from localStorage**
+- **Basic Webpack configuration**
+- **Starter template**
+- **Useful plugins**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
