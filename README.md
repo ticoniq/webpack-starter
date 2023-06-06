@@ -12,11 +12,9 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -49,7 +47,7 @@
 <!-- Live Demo -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-<a href="https://ticoniq.github.io/awesome-book"> See Project 🚀</a>
+<a href="https://webpack-starter-woad.vercel.app/"> See Project 🚀</a>
 
 <!-- GETTING STARTED -->
 
@@ -64,34 +62,35 @@ To get get a local copy up and running, you can follow these simple steps:
 Clone the repository to your local machine using the following command:
 
 ```sh
-  git clone git@github.com/ticoniq/Awesome-book
+  git clone git@github.com/ticoniq/webpack-starter
 ```
 Navigate to the project directory:
 
 ```sh
- cd awesome-book
+ cd webpack-starter
 ```
 
-Open the index.html file in your web browser to view the project:
+Then run the below command to install dependencies
 ```sh
- open index.html
+ npm install
 ```
 
-You can now make changes to the project as desired and push them back to the repository using Git.
+Finally, run the below command to start the project.
+```sh
+ npm run dev
+```
 
-That's it! With these simple steps, you should be able to get up and running with the Book list project in no time. Happy coding!
+You can now make changes to the project as desired and push them back to your repository using Git.
+
+That's it! With these simple steps, you should be able to get up and running with the Webpack Starter in no time. Happy coding!
 
 
 
 ### Usage
 
-To use this project, simply visit the following link: https://github.com/ticoniq/awesome-book
+To build your application, run `npm run build`. This will create a `dist` directory containing the compiled application code.
 
-- **Open the <a href="https://ticoniq.github.io/awesome-book">project 🚀</a> in your web browser.**
-
-- **Use the provided form to add books to the list.**
-
-- **To remove a book, click the "Remove" button next to the book entry.**
+To run your application in development mode, run `npm run dev`. This will start a development server on port 3000.
 
 
 <!-- ### Run tests
@@ -121,24 +120,6 @@ Example command:
 - Twitter: [@ticoniq_](https://twitter.com/ticoniq_)
 - LinkedIn: [ticoniq](https://linkedin.com/in/ticoniq)
 
-👤 **Hassan Shakur**
-
-- GitHub: [@hassanShakur](https://github.com/hassanShakur)
-- Twitter: [@hassShakur](https://twitter.com/hassShakur)
-- LinkedIn: [hassanShakur](https://www.linkedin.com/in/hassan-shakur-4283ab232/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-<!-- > Describe 1 - 3 features you will add to the project. -->
-
-- [ ] **Additional pages: More pages will be added to the project to display additional content.**
-- [ ] **Responsive design: The project will be optimized to display properly on different screen sizes, including desktops, tablets, and mobile devices.**
-- [ ] **JavaScript interactivity: Some interactive features will be added using JavaScript to enhance the user experience.**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -155,7 +136,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> I am excited to share with you my latest project on Github. As you know, Github is an essential tool for developers to showcase their skills, collaborate with others, and contribute to open-source projects. By supporting my project, you can help me improve my Github workflow skills and learn how to set up HTML & CSS linters.
+> I am excited to share with you my latest project on Github. As you know, Github is an essential tool for developers to showcase their skills, collaborate with others, and contribute to open-source projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
